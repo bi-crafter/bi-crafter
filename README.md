@@ -1,4 +1,4 @@
-👋 Hi, I'm Abhijit Sarkar
+Hi, I'm Abhijit Sarkar
 Power BI Developer | Data Analyst | Flutter Developer
 
 I’m a curious builder at heart. Whether it’s analyzing business data or crafting seamless mobile experiences, I love creating things that genuinely help people and solve real problems.
@@ -8,8 +8,8 @@ My background combines Business Intelligence and Mobile App Development, which a
 Every project I work on — BI or mobile — is built with the same principles:
 clarity, performance, real-world impact, and clean architecture.
 
-🚀 What I’m Good At
-📊 Business Intelligence & Analytics
+ What I’m Good At
+ Business Intelligence & Analytics
 
 Building clean, story-driven Power BI dashboards
 
@@ -23,7 +23,7 @@ Turning raw data into insights that actually drive decisions
 
 Automating workflows & creating reusable report templates
 
-📱 App Development (Flutter)
+ App Development (Flutter)
 
 Designing and developing scalable, production-quality apps
 
@@ -35,8 +35,8 @@ State management, Firebase, UI/UX best practices
 
 Writing clean, testable, maintainable Dart code
 
-📌 Featured Work
-📊 Advanced Financial Sales Dashboard (Power BI)
+ Featured Work
+ Advanced Financial Sales Dashboard (Power BI)
 
 A fully interactive, job-ready dashboard that includes:
 
@@ -50,7 +50,7 @@ Dynamic DAX-driven KPIs
 
 A polished UI with professional layout & formatting
 
-📁 (PBIX file will be added soon)
+ (PBIX file will be added soon)
 
 🚗 WeRide – Ride Booking App (Flutter)
 
@@ -62,7 +62,7 @@ Real-time backend integration
 
 Clean, modular code structure
 
-🛒 QuestMall – Shopping & Offers App
+ QuestMall – Shopping & Offers App
 
 Product listings, search, and offers
 
@@ -70,7 +70,7 @@ Integrated API workflows
 
 Lightweight & scalable architecture
 
-🧩 TataNeu – Feature Contributions
+ TataNeu – Feature Contributions
 
 Experience working inside a massive super-app ecosystem:
 
@@ -80,7 +80,7 @@ Network layers
 
 Onboarding & core module enhancements
 
-🧰 Tech Stack & Tools
+ Tech Stack & Tools
 
 Business Intelligence & Data
 Power BI • DAX • Power Query (M) • SQL • Data Modeling • ETL
@@ -92,7 +92,7 @@ Tools I Use Daily
 Git • GitHub • VS Code • Android Studio • Figma
 
 
-🌱 Currently Exploring
+ Currently Exploring
 
 Advanced DAX patterns & report optimization
 
@@ -102,7 +102,7 @@ Creating industry-level dashboard templates
 
 Building modular Flutter component libraries
 
-🤝 Let’s Connect
+ Let’s Connect
 
 Email: abhijitcode1@gmail.com
 
