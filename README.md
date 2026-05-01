@@ -1,117 +1,62 @@
-Hi, I'm Abhijit Sarkar
-Power BI Developer | Data Analyst | Flutter Developer
+Hi, I'm Abhijit Sarkar 👨‍💻
+Senior Analytics Engineer | Microsoft Fabric & PySpark Specialist | Ex-Tata Digital
+I am a BI Crafter by trade and an engineer by heart. I specialize in bridging the gap between high-scale product engineering and enterprise-grade data architecture. My work focuses on building Medallion Lakehouse solutions that don't just show data, but drive autonomous business decisions.  
 
-I’m a curious builder at heart. Whether it’s analyzing business data or crafting seamless mobile experiences, I love creating things that genuinely help people and solve real problems.
+With a background in both Mobile App Development (TataNeu, 5M+ users) and Data Engineering, I approach the data lifecycle with a "Product-First" mindset. I believe data is only as good as the architecture supporting it—which is why I build for performance, scalability, and 100% layout fidelity.
 
-My background combines Business Intelligence and Mobile App Development, which allows me to approach problems from both analytical and product-thinking perspectives. I’ve worked on feature-rich apps like TataNeu, WeRide, and QuestMall, and I’m equally comfortable designing dashboards that tell a compelling data story.
+🏗️ What I’m Architecting
+Data & Analytics Engineering
+Unified Lakehouse Architecture: Designing Bronze/Silver/Gold layers in Microsoft Fabric to turn raw API streams into governed Gold-layer assets.
 
-Every project I work on — BI or mobile — is built with the same principles:
-clarity, performance, real-world impact, and clean architecture.
+Real-Time Intelligence: Building low-latency pipelines using PySpark and Eventhouse for weather, flight, and market-tick data.
 
- What I’m Good At
- Business Intelligence & Analytics
+Advanced Semantic Modeling: Crafting Star Schemas and complex DAX (Time Intelligence, RANKX) that reduce report latency by 40%+.
 
-Building clean, story-driven Power BI dashboards
+Governance & Security: Implementing RLS (Row-Level Security) and ensuring PCI-DSS compliance for fintech data environments.
 
-Designing Star schemas & robust data models
+The "Product-to-Data" Bridge (Flutter)
+Data Contracts: Mapping REST API JSON responses to typed data models to ensure seamless telemetry from the frontend to Firebase/OneLake.  
 
-Writing advanced DAX: Time Intelligence, ranking logic, KPIs
+Performance Monitoring: Using Crashlytics and custom event tracking to map user journeys and identify funnel drop-offs for product teams.
 
-Cleaning & shaping messy datasets using Power Query (M)
+🚀 Featured Medallion Projects
+✈️ CCU Airport Intelligence Platform
+Tech: Microsoft Fabric, PySpark, OpenSky API, Power BI
 
-Turning raw data into insights that actually drive decisions
+Architected a real-time airspace operations platform integrating 4 live data streams.  
 
-Automating workflows & creating reusable report templates
+Engineered a full Medallion pipeline in Fabric to correlate weather impact with flight delays.
 
- App Development (Flutter)
+Impact: Surfaced proactive operational insights for ground traffic density and on-air time.
 
-Designing and developing scalable, production-quality apps
+₿(https://github.com/bi-crafter)
+Tech: Delta Lake, OneLake, Python, REST APIs, Power Automate
 
-API integrations using Dio, clean error handling
+Built an end-to-end pipeline tracking 250+ assets with a 5-minute refresh interval.  
 
-Architecture patterns: MVVM, Provider, Riverpod
+Implemented volatility momentum scores and price-trend alerts using advanced DAX.
 
-State management, Firebase, UI/UX best practices
+🏦(https://github.com/bi-crafter)
+Tech: Power BI, SQL, Advanced DAX
 
-Writing clean, testable, maintainable Dart code
+Developed automated loan analytics and transaction dashboards for high-concurrency environments.
 
- Featured Work
- Advanced Financial Sales Dashboard (Power BI)
+Category,Tools & Technologies
+Data Engineering,"Microsoft Fabric, OneLake, PySpark, SQL, ETL/ELT, Medallion Architecture"
+Business Intelligence,"Power BI (Pro/Premium), DAX, Power Query (M), Google Looker Studio"
+Product Engineering,"Flutter, Dart, Firebase, Provider/Riverpod, REST API Integration"
+DevOps & Tools,"Git, GitHub, VS Code, Jupyter Notebooks, Figma, Microsoft Purview"
 
-A fully interactive, job-ready dashboard that includes:
+2026 Focus Areas
+Fabric Analytics Engineering: Moving enterprise legacy SSRS systems to unified cloud environments.
 
-YoY and MoM performance tracking
+Agentic AI for Data: Exploring how to use LLMs to automate metadata-driven pipeline monitoring.
 
-Rolling 12-month metrics
+Scalable Data Modeling: Designing for datasets exceeding 50M+ rows without performance degradation.
 
-Country & segment-wise analysis
+📫 Let’s Connect
+Email: wokabhijit@gmail.com
 
-Dynamic DAX-driven KPIs
+LinkedIn: linkedin.com/in/bi-crafter
 
-A polished UI with professional layout & formatting
-
- (PBIX file will be added soon)
-
-🚗 WeRide – Ride Booking App (Flutter)
-
-Built with production-level architecture
-
-Smooth booking & navigation flows
-
-Real-time backend integration
-
-Clean, modular code structure
-
- QuestMall – Shopping & Offers App
-
-Product listings, search, and offers
-
-Integrated API workflows
-
-Lightweight & scalable architecture
-
- TataNeu – Feature Contributions
-
-Experience working inside a massive super-app ecosystem:
-
-User flows
-
-Network layers
-
-Onboarding & core module enhancements
-
- Tech Stack & Tools
-
-Business Intelligence & Data
-Power BI • DAX • Power Query (M) • SQL • Data Modeling • ETL
-
-Frontend & Mobile
-Flutter • Dart • Firebase • REST APIs • GetX • Provider • Riverpod
-
-Tools I Use Daily
-Git • GitHub • VS Code • Android Studio • Figma
-
-
- Currently Exploring
-
-Advanced DAX patterns & report optimization
-
-Data modeling for larger datasets
-
-Creating industry-level dashboard templates
-
-Building modular Flutter component libraries
-
- Let’s Connect
-
-Email: abhijitcode1@gmail.com
-
-GitHub: https://github.com/bi-crafter
-
-Always open to discussing Power BI roles, Flutter development, or any project that mixes data and product thinking.
-
-I love solving problems.
-I love clean design.
-And I love learning something new every day.
-
-If you’re a recruiter, developer, or someone who enjoys good dashboards and clean code — feel free to reach out. I’d be happy to collaborate or just chat.
+Portfolio: bi-crafter.github.io
