@@ -1,62 +1,124 @@
-Hi, I'm Abhijit Sarkar 👨‍💻
-Senior Analytics Engineer | Microsoft Fabric & PySpark Specialist | Ex-Tata Digital
-I am a BI Crafter by trade and an engineer by heart. I specialize in bridging the gap between high-scale product engineering and enterprise-grade data architecture. My work focuses on building Medallion Lakehouse solutions that don't just show data, but drive autonomous business decisions.  
+<div align="center">
 
-With a background in both Mobile App Development (TataNeu, 5M+ users) and Data Engineering, I approach the data lifecycle with a "Product-First" mindset. I believe data is only as good as the architecture supporting it—which is why I build for performance, scalability, and 100% layout fidelity.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Abhijit+Sarkar;Data+Engineer+%7C+Microsoft+Fabric;Building+Real-Time+Data+Pipelines;Medallion+Architecture+%7C+PySpark+%7C+SQL" alt="Typing SVG" />
 
-🏗️ What I’m Architecting
-Data & Analytics Engineering
-Unified Lakehouse Architecture: Designing Bronze/Silver/Gold layers in Microsoft Fabric to turn raw API streams into governed Gold-layer assets.
+<br/>
 
-Real-Time Intelligence: Building low-latency pipelines using PySpark and Eventhouse for weather, flight, and market-tick data.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bi--crafter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bi-crafter)
+[![GitHub](https://img.shields.io/badge/GitHub-bi--crafter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bi-crafter)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
-Advanced Semantic Modeling: Crafting Star Schemas and complex DAX (Time Intelligence, RANKX) that reduce report latency by 40%+.
+</div>
 
-Governance & Security: Implementing RLS (Row-Level Security) and ensuring PCI-DSS compliance for fintech data environments.
+---
 
-The "Product-to-Data" Bridge (Flutter)
-Data Contracts: Mapping REST API JSON responses to typed data models to ensure seamless telemetry from the frontend to Firebase/OneLake.  
+## 🚀 About Me
 
-Performance Monitoring: Using Crashlytics and custom event tracking to map user journeys and identify funnel drop-offs for product teams.
+I build **production-grade data infrastructure** that turns raw, messy operational data into reliable, real-time business intelligence.
 
-🚀 Featured Medallion Projects
-✈️ CCU Airport Intelligence Platform
-Tech: Microsoft Fabric, PySpark, OpenSky API, Power BI
+Specialising in **Microsoft Fabric**, **PySpark**, and **Power BI**, I architect end-to-end pipelines — from live API ingestion all the way to executive dashboards — using the **Medallion (Bronze → Silver → Gold)** pattern to enforce data quality at every layer.
 
-Architected a real-time airspace operations platform integrating 4 live data streams.  
+```python
+abhijit = {
+    "role"         : "Data Engineer",
+    "stack"        : ["Microsoft Fabric", "PySpark", "Python", "SQL", "Power BI"],
+    "architecture" : ["Medallion (Bronze→Silver→Gold)", "Star Schema", "Lakehouse"],
+    "domains"      : ["Fintech", "Aviation", "Healthcare"],
+    "open_to"      : ["Data Engineer", "Analytics Engineer", "Remote / Hybrid"],
+}
+```
 
-Engineered a full Medallion pipeline in Fabric to correlate weather impact with flight delays.
+---
 
-Impact: Surfaced proactive operational insights for ground traffic density and on-air time.
+## 🛠️ Tech Stack
 
-₿(https://github.com/bi-crafter)
-Tech: Delta Lake, OneLake, Python, REST APIs, Power Automate
+<div align="center">
 
-Built an end-to-end pipeline tracking 250+ assets with a 5-minute refresh interval.  
+| Layer | Tools |
+|---|---|
+| **Lakehouse & Orchestration** | ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
+| **Processing** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **Storage** | ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat&logo=databricks&logoColor=white) ![Azure Data Lake](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
+| **Analytics & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
-Implemented volatility momentum scores and price-trend alerts using advanced DAX.
+</div>
 
-🏦(https://github.com/bi-crafter)
-Tech: Power BI, SQL, Advanced DAX
+---
 
-Developed automated loan analytics and transaction dashboards for high-concurrency environments.
+## 🏗️ Featured Projects
 
-Category,Tools & Technologies
-Data Engineering,"Microsoft Fabric, OneLake, PySpark, SQL, ETL/ELT, Medallion Architecture"
-Business Intelligence,"Power BI (Pro/Premium), DAX, Power Query (M), Google Looker Studio"
-Product Engineering,"Flutter, Dart, Firebase, Provider/Riverpod, REST API Integration"
-DevOps & Tools,"Git, GitHub, VS Code, Jupyter Notebooks, Figma, Microsoft Purview"
+### ✈️ CCU Airport Intelligence Platform
+> *Real-time flight operations analytics using Microsoft Fabric*
 
-2026 Focus Areas
-Fabric Analytics Engineering: Moving enterprise legacy SSRS systems to unified cloud environments.
+- 🔄 Ingests **50K+ flight records/day** from 5 live APIs (OpenSky, Aviationstack, METAR, TomTom, FlightAware)
+- ⚡ Reduced data latency from **4 hours → 8 minutes** using PySpark streaming on Fabric
+- 🏛️ Full **Medallion Architecture** (Bronze → Silver → Gold) with Delta Lake
+- 📊 3 real-time Power BI dashboards serving operations, safety, and congestion teams
 
-Agentic AI for Data: Exploring how to use LLMs to automate metadata-driven pipeline monitoring.
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bi-crafter/ccu-airport-intelligence-platform)
 
-Scalable Data Modeling: Designing for datasets exceeding 50M+ rows without performance degradation.
+---
 
-📫 Let’s Connect
-Email: wokabhijit@gmail.com
+### 🏦 UNO Digital Bank — KYC Compliance Pipeline
+> *End-to-end compliance data pipeline for a digital banking platform*
 
-LinkedIn: linkedin.com/in/bi-crafter
+- ⚡ Reduced compliance reporting cycle from **4 hours → under 5 minutes**
+- 🔍 Automated **data quality checks** catching 99.2% of malformed records before Silver layer
+- 🔐 Integrated real-time video KYC API + JWT auth pipeline into unified audit trail
+- 📦 Full Medallion pipeline with automated SLA alerting
 
-Portfolio: bi-crafter.github.io
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bi-crafter/uno-bank-kyc-pipeline)
+
+---
+
+### 🏥 Healthcare Clinical Trial Analytics
+> *Power BI + SQL analytics platform for clinical trial performance*
+
+- 📊 Multi-page Power BI report with advanced DAX (time intelligence, RLS, iterators)
+- 🗄️ Star schema data model with 5 fact tables and 8 dimension tables
+- 🧬 Drug efficacy, patient survival rates, and country-wise trial distribution
+
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bi-crafter)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bi-crafter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bi-crafter&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| DP-600 Fabric Analytics Engineer | Microsoft | 🔄 In Progress |
+| HackerRank SQL | HackerRank | ✅ Certified Apr 2026 |
+| Data Fundamentals | IBM | ✅ Certified Apr 2026 |
+| Delta Lake in Microsoft Fabric | Microsoft Learn | ✅ Completed |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm actively looking for **Data Engineer / Analytics Engineer** roles — **Remote or Hybrid, India**.
+
+If you're building a data platform and need someone who has shipped real pipelines in production, let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bi-crafter)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=bi-crafter&color=0EA5E9&style=flat-square&label=Profile+Views" />
+</div>
